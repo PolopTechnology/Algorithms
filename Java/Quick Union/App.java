@@ -33,6 +33,7 @@ public class App {
                      System.out.println(Arrays.toString(news));
                 }
             }
+// 0
         }
     }
 }
